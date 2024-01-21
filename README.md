@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Java](Java)
 
-- 📫 How to reach me **huynhtrunglam167@gmail.com**
+- 📫 Gmail: **huynhtrunglam167@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
